@@ -75,7 +75,7 @@ export default function LoginPage() {
             bgGradient="linear(to-l, #675AAA,#4399E1)"
             bgClip="text"
           >
-            Sign in to your account
+            Subdomain TakeOver by DiMaX!
           </Heading>
           <Text fontSize="lg" color="gray.600">
             to start creating your simple tasks
